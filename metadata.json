@@ -1,0 +1,7 @@
+{
+  "name": "Family Health Cloud",
+  "description": "A comprehensive family healthcare management platform featuring AI-powered medical report analysis, visual health history tracking, and interactive anatomical health mapping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
